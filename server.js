@@ -35,7 +35,7 @@ var server = http.createServer(function(request, response){
      <link rel="stylesheet" href="/style.css">
      </head>
      <body>
-     <h1>标题</h1>
+     <h1>诸神是小别</h1>
      <script src="/y"></script>
      </body>
      `);
