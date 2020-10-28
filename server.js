@@ -36,7 +36,7 @@ var server = http.createServer(function(request, response){
      </head>
      <body>
 
-     <h1>诸神是小别</h1>
+     <h1>诸神是大小别</h1>
 
 
      <script src="/y"></script>
